@@ -36,5 +36,10 @@ Tech used:
 - Java
 - Standard file I/O
 - Optional JavaFX in later versions
+------------------------------------------------------------------
 
+Seperate section for planning out project
+Main file is Maze.java first thing that should most likely be worked
+on is figuring out how to genreate the maze and figure out what characters 
+to use to represent the maze as a console window.
  
