@@ -1,0 +1,20 @@
+Maze dimensions: 5 columns x 5 rows
+Maze start point: (2, 4)
+Maze end point: (4, 3)
+Maze solution path (column, row):
+(2, 4)
+(3, 4)
+(4, 4)
+(4, 3)
+
++---+---+---+---+---+
+|                   |
++   +   +---+---+   +
+|   |       |       |
++   +---+   +---+   +
+|       |       |   |
++---+   +---+   +---+
+|   |       |     E  
++   +   +---+---+   +
+|       | S   .   . |
++---+---+   +---+---+
